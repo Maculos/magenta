@@ -1,0 +1,6 @@
+First of all, why are you looking this deep into my github?
+Second this is mostly for me so ignore it
+Anyway here's how I determine my license of each project:
+My average projects, the useless ones go under CC0
+The kinda-useful but unlikely to be of much use are under MIT
+And on the delusional future that I make something actually useful it'll go under LGPL3

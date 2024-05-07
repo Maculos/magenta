@@ -1,0 +1,8 @@
+ This isnt even gonna be formatted, i just dont want to keep this info via bookmarks
+
+ Sifive Hifive Unleashed - runs linux with proper PCIe support on a 486K LE AMD Virtex 7 chip with 700 I/Os
+
+ Kria K26 - $315/module - 256k LEs - 196 I/O
+ Alinx AXU2CGA - $225 - 103K LEs - Either 34 I/O each for 1.8v and 3v3 or combined 34 for both Vs, to confirm
+ PolarFire SoC Discovery Kit - $132 - 95K LEs - No details from datasheet other than bank so at most 27 I/Os
+ 
