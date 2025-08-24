@@ -1,0 +1,41 @@
+Part Number     | Replacment Part |   Brand                |   Type                             |   Quantity    |   Position(s)             |   Datasheet   |   Notes
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MC146818AP      | TODO            | Motorola               | ICs(RTC)                                       | 1  | H09FB                                                                | https://www.alldatasheet.com/datasheet-pdf/pdf/122156/MOTOROLA/MC146818.html | https://www.ardent-tool.com/misc/MC146818.html
+ON7438N         | 74 Series #38   | Texas Instruments      | ICs(NAND/Generic)                              | 4  | J10EF, P12U, Q12BU, R12DU                                            | https://www.ti.com/lit/gpn/sn74ls38 | 
+ON75154N        | SN75154         | Texas Instruments      | ICs(Quad Line RX/Generic)                      | 2  | JO2FE, JO3F0                                                         | https://www.ti.com/product/SN75154 |
+SN74LS629       | 74 Series #629  | Texas Instruments      | Analog ICs(Dual Voltage Controlled Oscillator) | 1  | Z12BF?                                                               | https://www.ti.com/lit/gpn/sn74ls629 |
+8616A-LF-351N   | LF351A          | National Semiconductor | ICs(OpAmp)                                     | 1  | Z111L                                                                | https://www.st.com/resource/en/datasheet/lf351.pdf |
+P8718-DS-75150N | DS75150         | National Semiconductor | ICs(Dual Line Driver)                          | 2  | JO1FC, 10133                                                         | https://www.digikey.com/en/products/detail/rochester-electronics-llc/DS75150N/11519310
+SAB8237A5P      | TODO (NOS?)     | Siemens                | Programmable DMA Controller                    | 2  | ZO5 9, K0539                                                         | https://www.datasheetarchive.com/datasheet/SAB8237A-5-P?id=1cb50013f1a57fd8&term=sab8237a5
+SN74LS612N      | 74 Series #612  | Texas Instruments      | Memory Mapper                                  | 1  | ZO8 N                                                                | https://archive.org/details/bitsavers_tidataBookVol2_45945352/page/n1237
+ON74LS245N      | 74 Series #245  | Texas Instruments      | Octal Bus Transceiver, non inverting outputs   | 10 | KO3B7, HO231, YO337, SO3 F, RO4 B, TO155, PO115, QO135, WO9DU, FO7B7 | https://www.ti.com/lit/gpn/sn74ls245
+SN74ALS245AN    | 74 Series #245  | Texas Instruments      | Octal Bus Transceiver, non inverting outputs   | 8  | ZO21, XO317, VO413, UO3 F, RO3 F, QO4, NO4B1, NO1 5                  | https://www.ti.com/lit/gpn/sn74ls245
+74LS573 PC      | 74 Series #573  | Fairchild Semi.        | Octal D-type transparent latch                 | 3  | KO357, HO337, TO3 F                                                  | https://www.ti.com/lit/gpn/sn74als573c
+74LS163AN       | 74 Series #163  | TODO                   | sync presettable 4-bit bin counter, sync clr   | 1  | VO3FF                                                                | https://www.ti.com/lit/gpn/sn74ls163a
+SAB8259AP       | i8259 Equiv. NOS| Siemens                | Programmable Interrupt Controller              | 2  | TO5 9, SO559                                                         | https://www.alldatasheet.com/datasheet-pdf/view/66107/INTEL/8259A.html
+D765AC-2        | D765AC-2        | NEC                    | Floppy Disc Controller                         | 1  | W113G                                                                | https://www.alldatasheet.com/view.jsp?Searchword=D765AC-2     |     https://www.cpcwiki.eu/index.php/NEC_D765AC-2  
+NS16550AN       | 16550 UART      | National Semiconductor | UART Transceiver                               | 1  | KO73$                                                                | https://datasheet4u.com/datasheet-pdf/NationalSemiconductor/NS16550A/pdf.php?id=605590    |   OpenCores: https://uart16550.readthedocs.io/_/downloads/en/latest/pdf/
+P8254           | 8254            | Intel                  | Programmable Interval Timer                    | 1  | ZO9 B                                                                | https://www.alldatasheet.com/datasheet-pdf/view/66099/INTEL/8254.html
+74F257APC       | 74 Series #257  | Fairchild Semi.        | Multiplexer                                    | 1  | QO3 F                                                                | https://www.ti.com/lit/gpn/sn74ls257b
+SN74S260N       | 74 Series #260  | Texas Instruments      | Dual 5-Input Positive-NOR Gates                | 1  | LO3BF                                                                | https://www.ti.com/lit/ds/symlink/sn74s260.pdf
+MDP1601-472G    | 4.7KOhm Network | Vishay Dale            | Resistor Network (Common pin on #16)           | 4  | LO6B, PO4A, GO3BF, GO1L3                                             | https://www.alldatasheet.com/datasheet-pdf/view/999080/VISHAY/MDP1601.html
+SN74AS02N       | 74 Series #02   | Texas Instruments      | Quad 2-Input Positive-NOR Gates                | 2  | BO7B3, LC7B7                                                         | https://www.ti.com/lit/ds/symlink/sn74als02a.pdf
+T74LS273B1      | 74 Series #273  | ST Micro (SGS Logo)    | Octal D-Type Flip-Flop With Clear              | 3  | UO835, VO835, V1035                                                  | https://www.alldatasheet.com/datasheet-pdf/view/27404/TI/74LS273.html
+M9306B188723    | M9306B NOS      | ST Micro (SGS Logo)    | 256Bit 16x16 Serial NMOS EEPROM                | 1  | VO8F                                                                 | https://www.alldatasheet.com/datasheet-pdf/view/23277/STMICROELECTRONICS/M9306B.html
+SN74LS138N      | 74 Series #138  | Texas Instruments      | 3-Line To 8-Line Decoders/Demultiplexers       | 2  | VO7F1, S0935                                                         | https://www.ti.com/lit/ds/sdls014/sdls014.pdf
+T74LS14B1       | 74 Series #14   | ST Micro (SGS Logo)    | Hex Schmitt-Trigger Inverters                  | 2  | T12DU, Q11FU                                                         | https://www.alldatasheet.com/datasheet-pdf/view/27374/TI/74LS14.html
+T74LS175B1      | 74 Series #175  | ST Micro (SGS Logo)    | Quad D-Type Flip Flops                         | 1  | V0933                                                                | https://www.ti.com/lit/ds/symlink/sn74ls175.pdf
+PAL16L8ACN      | TODO            | Monolithic Memories    | Programmable Array Logic                       | 2  | VO731, NO9B$                                                         | https://www.silicon-ark.co.uk/datasheets/PAL16l8-16r8-16r6-16r4-datasheet-mmi.pdf
+74LS74AN        | 74 Series #74   | Signetics              | Dual D-TypePos-Edge-TrigFlip-Flops Preset&clr  | 3  | XO7DD, GO9B7, FO9BS                                                  | https://www.alldatasheet.com/datasheet-pdf/view/27428/TI/SN74LS74AN.html
+MC3487P         | MC3487          | Motorola               | Quad Differential Line Driver                  | 1  | U1035                                                                | https://www.ti.com/lit/ds/symlink/mc3487.pdf
+T74LS244B1      | 74 Series #244  | ST Micro (SGS Logo)    | Octal Buffers And Line Drivers With 3-State    | 1  | UO937                                                                | https://www.alldatasheet.com/datasheet-pdf/view/171559/TI/74LS244.html
+AMI 8742GBU     | TODO            | TODO                   | Manual Says Floppy Controller, info thin, TODO | 1  | X11B9                                                                | TODO
+
+
+
+
+
+
+
+
+
